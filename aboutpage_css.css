@@ -1,0 +1,35 @@
+
+canvas{
+	border: 5px solid black;
+}
+body{
+	background-color: #848484;
+}
+.row{
+	text-align: center;
+}
+
+.mainText{
+	text-align: left;
+}
+
+#footer{
+	border-top: 3px solid #bcff80;
+	margin-top: 30px;
+	padding: 20px;
+	color: #bcff80;
+
+}
+.panel-heading{
+	font-family: 'Bungee', cursive;
+}
+
+
+li{
+	text-align: left;
+	margin-bottom: 5px;
+	margin-top: 5px;
+}
+.navbar-brand{
+	text-align: center;
+}
